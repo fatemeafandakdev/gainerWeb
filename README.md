@@ -1,5 +1,5 @@
 # gainerWeb
-[Demo project] (https://fatemeafandakdev.github.io/gainerWeb/)
+[Demo project](https://fatemeafandakdev.github.io/gainerWeb/)
 
 Developed by Fateme Afandak
 
